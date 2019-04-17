@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eegoojohra.openvizsla.org/sitemap.xml
